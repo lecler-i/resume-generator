@@ -1,0 +1,236 @@
+{
+  "basics": {
+    "name": "Thomas Leclercq",
+    "label": "Programmeur",
+    "picture": "",
+    "email": "thomasle@mailbox.org",
+    "phone": "+33 626894081",
+    "website": "https://thomas.sh",
+    "summary": "Passionné par le développement web depuis l'enfance, j'ai fait de ma passion mon métier. Après avoir étudie a Epitech, j'ai travaille en tant que freelance (majoritairement sur des projets web) et me spécialise maintenant sur les applications mobiles cross-platform (ReactNative)",
+    "location": {
+      "address": "5 rue des jardins",
+      "postalCode": "11610",
+      "city": "Toulouse",
+      "countryCode": "Fr",
+      "country": "France",
+      "region": "Languedoc-Roussillon"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "lecler-i",
+        "url": "https://github.com/lecler-i"
+      },
+      {
+        "network": "Linkedin",
+        "username": "leclercqthomas",
+        "url": "https://linkedin.com/in/leclercqthomas"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Thomas.sh",
+      "position": "Consultant Développeur Web/Logiciel",
+      "website": "https://thomas.sh",
+      "startDate": "2015-11-01",
+      "summary": "En tant que Freelance, je travaille en position remote pour une variété de clients et projets. Je rejoins des équipes, majoritairement lala",
+      "highlights": [
+        "FrontEnd et backend web et mobile (ReactNative, React, express, PHP)",
+        "Devops, mise en place de pipelines CI/CD, solutions d'hébergements",
+        "Création de scripts (python, bash, C)"
+      ]
+    },
+    {
+      "company": "Wavy - Paris, France",
+      "position": "Frontend Développeur",
+      "website": "https://wavy.co",
+      "startDate": "2017-12-01",
+      "endDate": "2018-08-01",
+      "summary": "Wavy est une application mobile logiciel de caisse destine a remplacer la traditionnelle machine a encaisser. Dédiée aux salons de coiffure, barbier et instituts de beauté, elle est la plus simple pour encaisser, communiquer les clients et gérer la société.",
+      "highlights": [
+        "Intégration de designs en ReactNative",
+        "Aide a l'unification de la code-base Web et Mobile (react-native-web)",
+        "Mise en place de test unitaires et d'intégrations"
+      ]
+    },
+    {
+      "company": "FrenchApp - Labège, France",
+      "position": "Développeur FullStack",
+      "website": "https://frenchapp.fr",
+      "startDate": "2015-11-01",
+      "endDate": "2016-04-01",
+      "summary": "De l'imagination en passant par la conception, la publication et le suivi de projets, FRENCHAPP propose un panel complet de services - Sites Web, applications mobiles et divers services dans le domaine du numérique.",
+      "highlights": [
+        "Création et maintenance d'une API pour application mobile/smartwatch (NodeJS)",
+        "Aide a la mise en place d'outils pour méthodologie SCRUM",
+        "Portage d'une application mobile vers web (React.js / Redux)"
+      ]
+    },
+    {
+      "company": "BiKay - Phnom Penh, Cambodge",
+      "position": "Développeur Web",
+      "website": "https://bi-kay.com",
+      "startDate": "2015-04-01",
+      "endDate": "2015-07-01",
+      "summary": "BiKay est une société de services informatiques localise au Cambodge, propose aussi bien des services en out-sourcing que de la consultation sur site en France.",
+      "highlights": [
+        "Développement fullstack (PHP - Symfony) d'un outil de gestion de parc immobilier",
+        "Scripting et retouches de l'outil principal pour changeur de monnaie (PHP, html)",
+        "Installation et upgrade d'infrastructure pour client sur site"
+      ]
+    },
+    {
+      "company": "Orange DSIF - Bagneux, France",
+      "position": "PHP Web Développeur",
+      "website": "https://orange.com",
+      "startDate": "2013-07-01",
+      "endDate": "2013-12-01",
+      "summary": "La DSI d'Orange est le pôle informatique de la société, gestion des différents logiciels et tooling interne a l'entreprise ainsi que des nombreux services numériques offerts par celle-ci.",
+      "highlights": [
+        "En charge d'un portail d'indicateur de données pour la rémunération distributeurs",
+        "Création et modernisation de divers tooling (PHP) de gestion données de ventes"
+      ]
+    },
+    {
+      "company": "Rxr",
+      "position": "Fondateur",
+      "website": "https://rxr.fr",
+      "startDate": "2011-06-01",
+      "endDate": "2013-01-01",
+      "summary": "Création d'un site e-commerce de produits virtuels et services pour un célèbre jeux vidéo en ligne",
+      "highlights": [
+        "Intégration de solution de paiement en ligne",
+        "Étroite collaboration avec fournisseurs Chinois/Russes pour comble un besoin non disponible sur le marche Français"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Manipal Institute of Technology - Manipal, India",
+      "area": "Information Technology",
+      "studyType": "Master",
+      "startDate": "2016-07-01",
+      "endDate": "2017-05-20",
+      "courses": [
+        "MCA4101 - Object Oriented Programming and Design",
+        "MCA4202 - Advanced Computer Networks",
+        "MCA4203 - Web Programming",
+        "ICT0521 - Theoretical Foundation of computer Science",
+        "ICT0558 - Information Security",
+        "ICT0566 - Software Architecting"
+      ]
+    },
+    {
+      "institution": "EPITECH - Toulouse, France",
+      "area": "Information Technology",
+      "studyType": "Master",
+      "startDate": "2012-09-01",
+      "endDate": "2017-06-01",
+      "courses": [
+        "Unix System Programming",
+        "Graphics Programming",
+        "C++ Programming",
+        "Web Security",
+        "System Administration",
+        "Artifical Intelligence",
+        "Assembly x86_64",
+        "Cryptography"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Développement Mobile",
+      "level": "Master",
+      "keywords": [
+        "ReactNative",
+        "Android"
+      ]
+    },
+    {
+      "name": "Développement Web",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "NodeJS",
+        "React",
+        "ReasonML",
+        "PostgreSQL, MongoDB, Mysql"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Advanced",
+      "keywords": [
+        "Kubernetes",
+        "Rancher",
+        "Docker",
+        "Cloud / BareMetal"
+      ]
+    },
+    {
+      "name": "Unix System",
+      "level": "Master",
+      "keywords": [
+        "Scripting",
+        "Networking",
+        "Kernel module",
+        "Virtualization"
+      ]
+    },
+    {
+      "name": "Rétro-ingénierie",
+      "level": "Intermediate",
+      "keywords": [
+        "Language assembleur x86_64",
+        "IDA Pro",
+        "Patching binaire au runtime",
+        "Api spoofing"
+      ]
+    },
+    {
+      "name": "Développement Logiciel",
+      "level": "Intermediate",
+      "keywords": [
+        "C/C++",
+        "X11",
+        "Python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Langue maternelle"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Bilingue"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Notions"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Musique",
+      "keywords": [
+        "Saxophone",
+        "Flute",
+        "Bansuri"
+      ]
+    },
+    {
+      "name": "Bricolage",
+      "keywords": [
+        "Électronique",
+        "Mécanique",
+        "Menuiserie"
+      ]
+    }
+  ]
+}
