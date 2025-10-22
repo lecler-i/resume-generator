@@ -2,8 +2,8 @@
   "name": "resume",
   "description": "Generate my resume in multiple formats",
   "scripts": {
-    "build:docx": "docxtemplater template-simple.docx",
-    "build:pdf": "soffice --headless --convert-to pdf ",
+    "build:docx": "docxtemplater template-simple.docx resume-fr.json output-fr.docx; docxtemplater template-simple.docx resume-en.json output-en.docx",
+    "build:pdf": "soffice --headless --convert-to pdf output-en.docx ",
     "test": "node scripts/validate.js"
   },
   "author": "Thomas LECLERCQ",
