@@ -16,13 +16,16 @@ def generate_docx(resume, template, output):
     doc = DocxTemplate(template)
 
     # Need this usage of richtext to be able to add links for website/mailto
-    if resume_data['basics']['website']:
+    website_link = resume_data['basics'].get('website', None)
+    if website_link:
         rt_website = RichText()
-        rt_website.add(resume_data['basics']['website'], url_id=doc.build_url_id(resume_data['basics']['website']))
+        rt_website.add(website_link, url_id=doc.build_url_id(website_link))
         resume_data['website_link'] = rt_website
-    if resume_data['basics']['email']:
+
+    email_link = resume_data['basics'].get('email', None)
+    if email_link:
         rt_email = RichText()
-        rt_email.add(resume_data['basics']['email'], url_id=doc.build_url_id("mailto:" + resume_data['basics']['email']))
+        rt_email.add(email_link, url_id=doc.build_url_id(f"mailto:{email_link)")
         resume_data['email_link'] = rt_email
 
     doc.render(resume_data)
