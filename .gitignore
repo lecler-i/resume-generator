@@ -1,2 +1,5 @@
-node_modules/
-output-*
+__pycache__/
+*.pyc
+*.egg-info/
+output*.docx
+output*.pdf
