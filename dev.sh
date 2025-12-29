@@ -1,5 +1,4 @@
 while true; do
-    inotifywait -e create,moved_to,close_write templates/template-simple.docx resumejson/resume-fr.json
+    inotifywait -e create,moved_to,close_write templates/ resumejson/
     resume-generator
-    soffice --headless --convert-to pdf ./output.docx
 done
