@@ -1,24 +1,24 @@
 {
   "tr": {
-        "work" : "Experiences",
-        "education": "Education",
-        "skills": "Skills"
+    "work" : "Work Experience",
+    "education": "Education",
+    "skills": "Skills"
   },
   "basics": {
     "name": "Thomas Leclercq",
-    "label": "Programmer",
+    "label": "Senior Software Engineer",
     "picture": "",
     "email": "thomasle@mailbox.org",
-    "phone": "+33 626894081",
-    "website": "https://thomas.sh",
-    "summary": "Loving web development since childhood, I made my job out of my passion. After studying at Epitech, I worked as a freelancer (mostly on web projects) and now specializes in cross-platform mobile applications (ReactNative)",
+    "phone": "+33 6268 940 81",
+    "_website": "https://thomas.sh",
+    "summary": "",
     "location": {
       "address": "5 rue des jardins",
       "postalCode": "11610",
       "city": "Toulouse",
       "countryCode": "Fr",
       "country": "France",
-      "region": "Languedoc-Roussillon"
+      "region": "Occitanie"
     },
     "profiles": [
       {
@@ -35,54 +35,64 @@
   },
   "work": [
     {
-      "company": "Thomas.sh",
-      "position": "Web / Software Developer Consultant",
-      "website": "https://thomas.sh",
-      "startDate": "2015-11-01",
-      "summary": "As a Freelancer, I work in a remote position for a variety of clients and projects. I join teams, mostly lala",
+      "company": "EVS Broadcast",
+      "position": "Senior Software Engineer",
+      "website": "https://evs.com",
+      "startDate": "2019-05-19",
+      "summary": "",
       "highlights": [
-        "Fullstack web and mobile (ReactNative, React, express, PHP)",
-        "Devops, setting up of CI/CD pipelines, hosting solution (baremetal, cloud)",
-        "Various scripting (python, bash, C)"
+        "Lead on complex CI/CD to improve the speed of cross-team deliveries internally",
+        "Stabilized packaging, distribution, deployments and installer for a RedHat-based solution",
+        "C/C++ developer on critical video encoding code under real-time constraints"
       ]
     },
     {
       "company": "Wavy - Paris, France",
-      "position": "Frontend Developer",
+      "position": "Frontend/Mobile Developer",
       "website": "https://wavy.co",
       "startDate": "2017-12-01",
       "endDate": "2018-08-01",
-      "summary": "Wavy is a mobile cash register application designed to replace the traditional cash machine. Dedicated to hairdressers, barbers and beauty salons, it is the easiest way to cash in, communicate with customers and manage the company.",
+      "summary": "",
       "highlights": [
-        "UI integration and routing (ReactNative)",
-        "Unification of Web and Mobile codebase using react-native-web",
-        "Unit and E2E integrations tests."
+        "Implemented designs in React Native",
+        "Helped unify the Web and Mobile codebase (react-native-web)"
+      ]
+    },
+    {
+      "company": "Thomas.sh",
+      "position": "Consultant Web/Software Developer",
+      "website": "https://thomas.sh",
+      "startDate": "2015-11-01",
+      "endDate": "2016-12-01",
+      "summary": "",
+      "highlights": [
+        "Various frontend and backend web/mobile projects (React Native, React, Express, PHP)",
+        "DevOps: set up CI/CD pipelines, hosting solutions, deployments"
       ]
     },
     {
       "company": "FrenchApp - Labège, France",
-      "position": "FullStack Developer",
+      "position": "Full-Stack Web and Mobile Developer (WearOS)",
       "website": "https://frenchapp.fr",
       "startDate": "2015-11-01",
       "endDate": "2016-04-01",
-      "summary": "From imagination to project design, publication and monitoring, FRENCHAPP offers a full range of services - websites, mobile applications and various services in the digital domain.",
-      "highlights": [
-        "Writing and maintenance of a API for mobile/smartwatch app - payment, login, scheduler... (NodeJS)",
-        "Setup of various tools for SCRUM methodologie (jira, confluence)",
-        "Porting mobile app into web (React.js / Redux)"
+      "summary": "From ideation through design, publication and project follow-up, FRENCHAPP offers a full range of services - websites, mobile applications and various digital services.",
+      "_highlights": [
+        "Created and maintained an API for a mobile/smartwatch app (NodeJS)",
+        "Ported a mobile application to the web (React.js / Redux)"
       ]
     },
     {
       "company": "BiKay - Phnom Penh, Cambodia",
-      "position": "Web developer",
+      "position": "Web Developer",
       "website": "https://bi-kay.com",
       "startDate": "2015-04-01",
       "endDate": "2015-07-01",
-      "summary": "BiKay is a computer services company located in Cambodia, offering both out-sourcing services and on-site consultation in France.",
-      "highlights": [
-        "Fullstack development (PHP - Symfony) of a realestate managment tool.",
-        "Various scripting and upgrades of a money exchange internal tool (PHP, html)",
-        "On-site maintaining and installation of new tools and servers."
+      "summary": "BiKay is an IT services company based in Cambodia, providing both outsourcing services and on-site consulting in France.",
+      "_highlights": [
+        "Full-stack development (PHP - Symfony) of a property management tool",
+        "Scripting and tweaks to the main currency-exchange tool (PHP, HTML)",
+        "Infrastructure installation and upgrades for on-site clients"
       ]
     },
     {
@@ -91,21 +101,10 @@
       "website": "https://orange.com",
       "startDate": "2013-07-01",
       "endDate": "2013-12-01",
-      "summary": "The Orange ISD is the company's IT division, managing the various software and internal tooling at the company as well as the numerous digital services offered by it.",
-      "highlights": [
-        "In charge of development of a web portal to visualize and export various metrics (PHP, csv, html, sql)",
-        "Creation and modernizing various tools (PHP) for managing sells big data"
-      ]
-    },
-    {
-      "company": "rxr",
-      "position": "Founder",
-      "website": "https://rxr.fr",
-      "startDate": "2011-06-01",
-      "endDate": "2013-01-01",
-      "summary": "Creation of an e-commerce site for virtual products and services for a famous online video games",
-      "highlights": [
-        "Integration of Paypal online payment"
+      "summary": "Orange's IT department manages the company's software, internal tooling, and the numerous digital services it offers.",
+      "_highlights": [
+        "Responsible for a data-indicator portal for distributor remuneration",
+        "Created and modernized various PHP tools for sales data management"
       ]
     }
   ],
@@ -113,10 +112,10 @@
   "education": [
     {
       "institution": "Manipal Institute of Technology - Manipal, India",
-      "area": "Information technology",
-      "studyType": "Master",
-      "startDate": "2016-07-01",
-      "endDate": "2017-05-20",
+      "area": "Information Technology",
+      "studyType": "University exchange year",
+      "startDate": "2015-07-01",
+      "endDate": "2016-05-20",
       "courses": [
         "MCA4101 - Object Oriented Programming and Design",
         "MCA4202 - Advanced Computer Networks",
@@ -128,7 +127,7 @@
     },
     {
       "institution": "EPITECH - Toulouse, France",
-      "area": "Information technology",
+      "area": "Information Technology",
       "studyType": "Master",
       "startDate": "2012-09-01",
       "endDate": "2017-06-01",
@@ -138,7 +137,7 @@
         "C++ Programming",
         "Web Security",
         "System Administration",
-        "Artifical Intelligence",
+        "Artificial Intelligence",
         "Assembly x86_64",
         "Cryptography"
       ]
@@ -146,57 +145,37 @@
   ],
   "skills": [
     {
-      "name": "Mobile Development",
-      "level": "Master",
-      "keywords": [
-        "ReactNative",
-        "Android"
-      ]
-    },
-    {
-      "name": "Web development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "NodeJS",
-        "React",
-        "ReasonML",
-        "PostgreSQL, MongoDB, Mysql"
-      ]
-    },
-    {
       "name": "DevOps",
       "level": "Advanced",
       "keywords": [
-        "Kubernetes",
-        "Rancher",
-        "Docker",
-        "Cloud / BareMetal"
+        "Docker / Containerization",
+        "Cloud / BareMetal",
+        "Deployments as code (Ansible, Terraform)"
       ]
     },
     {
-      "name": "Unix System",
+      "name": "Linux System",
       "level": "Master",
       "keywords": [
         "Scripting",
         "Networking",
-        "Kernel module",
-        "Virtualization"
+        "Kernel",
+        "Virtualization",
+        "Packaging"
       ]
     },
     {
-      "name": "Reverse engineering",
+      "name": "Reverse Engineering",
       "level": "Intermediate",
       "keywords": [
-        "Language assembleur x86_64",
+        "x86_64 assembly language",
         "IDA Pro",
-        "Patching binaire au runtime",
-        "Api spoofing"
+        "Binary patching at runtime",
+        "API spoofing"
       ]
     },
     {
-      "name": "Software development",
+      "name": "Software Development",
       "level": "Intermediate",
       "keywords": [
         "C/C++",
@@ -205,10 +184,10 @@
       ]
     }
   ],
-  "languages": [
+  "_languages": [
     {
       "language": "French",
-      "fluency": "Native language"
+      "fluency": "Native"
     },
     {
       "language": "English",
@@ -216,10 +195,10 @@
     },
     {
       "language": "Hindi",
-      "fluency": "Notions"
+      "fluency": "Basic notions"
     }
   ],
-  "interests": [
+  "_interests": [
     {
       "name": "Music",
       "keywords": [
@@ -229,11 +208,11 @@
       ]
     },
     {
-      "name": "Housing",
+      "name": "DIY",
       "keywords": [
-        "Électronique",
-        "Mécanique",
-        "Menuiserie"
+        "Electronics",
+        "Mechanics",
+        "Woodworking"
       ]
     }
   ]

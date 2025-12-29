@@ -1,8 +1,8 @@
 {
   "tr": {
-            "work" : "Experiences",
-        "education": "Education",
-        "skills": "Competences"
+    "work" : "Expériences",
+    "education": "Éducation",
+    "skills": "Compétences"
   },
   "basics": {
     "name": "Thomas Leclercq",
@@ -10,7 +10,7 @@
     "picture": "",
     "email": "thomasle@mailbox.org",
     "phone": "06 26 89 40 81",
-    "website": "https://thomas.sh",
+    "_website": "https://thomas.sh",
     "summary": "",
     "location": {
       "address": "5 rue des jardins",
@@ -41,9 +41,9 @@
       "startDate": "2019-05-19",
       "summary": "",
       "highlights": [
-        "Lead sur CI/CD complexe pour ameliorer la vitesse des deliveries cross-team en interne",
-        "Fiabilisation de packaging, distribution, deploiements et installeur pour solution basee sur RedHat.",
-        "Developpeur C/C++ code critique encodage video en contrainte temps reel"
+        "Lead sur CI/CD complexe pour améliorer la vitesse des livraisons inter-équipes en interne",
+        "Fiabilisation du packaging, de la distribution, des déploiements et de l'installateur pour une solution basée sur RedHat.",
+        "Développeur C/C++ sur code critique d'encodage vidéo en contrainte temps réel"
       ]
     },
     {
@@ -55,7 +55,7 @@
       "summary": "",
       "highlights": [
         "Intégration de designs en ReactNative",
-        "Aide a l'unification de la code-base Web et Mobile (react-native-web)"
+        "Aide à l'unification de la codebase Web et Mobile (react-native-web)"
       ]
     },
     {
@@ -66,8 +66,8 @@
       "endDate": "2016-12-01",
       "summary": "",
       "highlights": [
-        "Differents travaux de frontEnd et backend web et mobile (ReactNative, React, express, PHP)",
-        "Devops, mise en place de pipelines CI/CD, solutions d'hébergements, deploiements"
+        "Différents travaux de frontend et backend web et mobile (React Native, React, Express, PHP)",
+        "DevOps, mise en place de pipelines CI/CD, solutions d'hébergement, déploiements"
       ]
     },
     {
@@ -76,7 +76,7 @@
       "website": "https://frenchapp.fr",
       "startDate": "2015-11-01",
       "endDate": "2016-04-01",
-      "summary": "De l'imagination en passant par la conception, la publication et le suivi de projets, FRENCHAPP propose un panel complet de services - Sites Web, applications mobiles et divers services dans le domaine du numérique.",
+      "summary": "De l'imagination à la conception, à la publication et au suivi de projets, FRENCHAPP propose un panel complet de services : sites web, applications mobiles et divers services dans le domaine du numérique.",
       "_highlights": [
         "Création et maintenance d'une API pour application mobile/smartwatch (NodeJS)",
         "Portage d'une application mobile vers web (React.js / Redux)"
@@ -88,10 +88,10 @@
       "website": "https://bi-kay.com",
       "startDate": "2015-04-01",
       "endDate": "2015-07-01",
-      "summary": "BiKay est une société de services informatiques localise au Cambodge, propose aussi bien des services en out-sourcing que de la consultation sur site en France.",
+      "summary": "BiKay est une société de services informatiques localisée au Cambodge, proposant aussi bien des services en outsourcing que de la consultation sur site en France.",
       "_highlights": [
         "Développement fullstack (PHP - Symfony) d'un outil de gestion de parc immobilier",
-        "Scripting et retouches de l'outil principal pour changeur de monnaie (PHP, html)",
+        "Scripting et retouches de l'outil principal pour changeur de devises (PHP, HTML)",
         "Installation et upgrade d'infrastructure pour client sur site"
       ]
     },
@@ -101,10 +101,10 @@
       "website": "https://orange.com",
       "startDate": "2013-07-01",
       "endDate": "2013-12-01",
-      "summary": "La DSI d'Orange est le pôle informatique de la société, gestion des différents logiciels et tooling interne a l'entreprise ainsi que des nombreux services numériques offerts par celle-ci.",
+      "summary": "La DSI d'Orange est le pôle informatique de la société : gestion des différents logiciels et tooling interne à l'entreprise ainsi que des nombreux services numériques offerts par celle-ci.",
       "_highlights": [
-        "En charge d'un portail d'indicateur de données pour la rémunération distributeurs",
-        "Création et modernisation de divers tooling (PHP) de gestion données de ventes"
+        "En charge d'un portail d'indicateurs de données pour la rémunération des distributeurs",
+        "Création et modernisation de divers tooling (PHP) de gestion des données de vente"
       ]
     }
   ],
@@ -145,9 +145,9 @@
       "startDate": "2019-05-19",
       "summary": "",
       "highlights": [
-        "Lead sur CI/CD complexe pour ameliorer la vitesse des deliveries cross-team en interne",
-        "Fiabilisation de packaging, distribution, deploiements et installeur pour solution basee sur RedHat.",
-        "Developpeur C/C++ code critique encodage video en contrainte temps reel"
+        "Lead sur CI/CD complexe pour améliorer la vitesse des livraisons inter-équipes en interne",
+        "Fiabilisation du packaging, de la distribution, des déploiements et de l'installateur pour une solution basée sur RedHat.",
+        "Développeur C/C++ sur code critique d'encodage vidéo en contrainte temps réel"
       ]
     },
     {
@@ -159,7 +159,7 @@
       "summary": "",
       "highlights": [
         "Intégration de designs en ReactNative",
-        "Aide a l'unification de la code-base Web et Mobile (react-native-web)"
+        "Aide à l'unification de la codebase Web et Mobile (react-native-web)"
       ]
     },
     {
@@ -170,8 +170,8 @@
       "endDate": "2016-12-01",
       "summary": "",
       "highlights": [
-        "Differents travaux de frontEnd et backend web et mobile (ReactNative, React, express, PHP)",
-        "Devops, mise en place de pipelines CI/CD, solutions d'hébergements, deploiements"
+        "Différents travaux de frontend et backend web et mobile (React Native, React, Express, PHP)",
+        "DevOps, mise en place de pipelines CI/CD, solutions d'hébergement, déploiements"
       ]
     },
     {
@@ -192,7 +192,7 @@
       "website": "https://bi-kay.com",
       "startDate": "2015-04-01",
       "endDate": "2015-07-01",
-      "summary": "BiKay est une société de services informatiques localise au Cambodge, propose aussi bien des services en out-sourcing que de la consultation sur site en France.",
+      "summary": "BiKay est une société de services informatiques localisée au Cambodge, proposant aussi bien des services en outsourcing que de la consultation sur site en France.",
       "_highlights": [
         "Développement fullstack (PHP - Symfony) d'un outil de gestion de parc immobilier",
         "Scripting et retouches de l'outil principal pour changeur de monnaie (PHP, html)",
@@ -207,8 +207,8 @@
       "endDate": "2013-12-01",
       "summary": "La DSI d'Orange est le pôle informatique de la société, gestion des différents logiciels et tooling interne a l'entreprise ainsi que des nombreux services numériques offerts par celle-ci.",
       "_highlights": [
-        "En charge d'un portail d'indicateur de données pour la rémunération distributeurs",
-        "Création et modernisation de divers tooling (PHP) de gestion données de ventes"
+        "En charge d'un portail d'indicateurs de données pour la rémunération des distributeurs",
+        "Création et modernisation de divers tooling (PHP) de gestion des données de vente"
       ]
     }
   ],
@@ -241,7 +241,7 @@
         "C++ Programming",
         "Web Security",
         "System Administration",
-        "Artifical Intelligence",
+        "Artificial Intelligence",
         "Assembly x86_64",
         "Cryptography"
       ]
@@ -254,7 +254,7 @@
       "keywords": [
         "Docker / Containerization",
         "Cloud / BareMetal",
-        "Deploiements as code (ansible, terraform)"
+        "Déploiements as code (Ansible, Terraform)"
       ]
     },
     {
@@ -272,10 +272,10 @@
       "name": "Rétro-ingénierie",
       "level": "Intermediate",
       "keywords": [
-        "Language assembleur x86_64",
+        "Langage assembleur x86_64",
         "IDA Pro",
         "Patching binaire au runtime",
-        "Api spoofing"
+        "API spoofing"
       ]
     },
     {
@@ -307,7 +307,7 @@
       "name": "Musique",
       "keywords": [
         "Saxophone",
-        "Flute",
+        "Flûte",
         "Bansuri"
       ]
     },
