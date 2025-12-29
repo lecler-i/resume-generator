@@ -1,4 +1,9 @@
 {
+  "tr": {
+        "work" : "Experiences",
+        "education": "Education",
+        "skills": "Skills"
+  },
   "basics": {
     "name": "Thomas Leclercq",
     "label": "Programmer",
